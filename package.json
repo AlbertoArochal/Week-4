@@ -1,0 +1,15 @@
+{
+    "name": "Week 4",
+    "version": "1.0.0",
+    "description": "Semana 4 ISDI Bootcamp",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Alberto Rocha",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^8.26.0",
+        "husky": "^8.0.1"
+    }
+}
